@@ -1,0 +1,29 @@
+# -----------------------------
+# Build / Compiled files
+# -----------------------------
+*.o
+*.out
+*.exe
+movie_renting_system
+
+# CMake build folders (if you use CMake later)
+build/
+cmake-build*/
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+
+# -----------------------------
+# OS-specific junk files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Backup files
+# -----------------------------
+*~
